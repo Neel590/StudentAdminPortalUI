@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+}
+
+.search-input{
+    border: 1px solid #383434;
+    padding: 8px 16px;
+    border-radius: 3px;
+
+}
+ .search-input :active{
+    border: 1px solid #ccc;
+ }
+ .search-input :focus{
+    border-color: rgb(132, 125, 125);
+ }
